@@ -1,0 +1,39 @@
+{
+  "mashinalar": [
+    {
+      "id": "1",
+      "nom": "Chevrolet Cobalt",
+      "narx": 12000,
+      "model": "Cobalt 1.5L",
+      "yil": 2022
+    },
+    {
+      "id": "2",
+      "nom": "Kia K5",
+      "narx": 28000,
+      "model": "K5 GT-Line",
+      "yil": 2023
+    },
+    {
+      "id": "3",
+      "nom": "Hyundai Sonata",
+      "narx": 25000,
+      "model": "Sonata SE",
+      "yil": 2021
+    },
+    {
+      "id": "4",
+      "nom": "Toyota Camry",
+      "narx": 30000,
+      "model": "Camry XLE",
+      "yil": 2022
+    },
+    {
+      "id": "6",
+      "nom": "Spark",
+      "narx": 8500,
+      "model": "Spark LT",
+      "yil": 2020
+    }
+  ]
+}
